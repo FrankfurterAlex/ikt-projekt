@@ -1,0 +1,43 @@
+body{background-image: url(./kepek/ÉG.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+.nav-link {
+    font-size: larger;
+    text-align: center;
+    color: rgba(0, 255, 255, .55);
+}
+.kozep{text-align: center;}
+
+.navbar-dark .navbar-nav .nav-item .nav-link {
+    color: rgba(0, 255, 255, .55);
+}
+
+.betu{font-weight:bold; 
+    text-align: justify; }
+
+.szoveg{font-weight:bold;}
+
+.hatter{
+        background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.brekobreko{
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    padding: 40px;
+}
+
+.simabreko{
+    font-weight:bold;
+    text-align: center;
+}
+
+
+p{ text-align: justify}
